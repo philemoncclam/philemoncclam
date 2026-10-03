@@ -1,7 +1,3 @@
-# Hi I'm Phil 👋
-
-Business Analytics Student @ **Simon Fraser University**
-
 Interested in the management, tooling, and lineage of data in enterprise environments.
 
 ## Currently Exploring
